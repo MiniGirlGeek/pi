@@ -25,7 +25,7 @@ SOFTWARE.
 """
 
 from mpmath import *
-# use the mpmath's real floats
+# use the mpmath's real floats:
 a = mpf(1)
 x = mpf(1)
 b = mpf(1 / sqrt(2))
